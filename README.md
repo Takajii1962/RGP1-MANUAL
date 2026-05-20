@@ -1,4 +1,3 @@
-
 ## 🔥 【マテマティカの失われた数学の書】マニュアル
 
 <img width="47%" alt="スクリーンショット 2026-05-19 182513" src="https://github.com/user-attachments/assets/9d041713-0e50-4aaa-93fa-02e2c27bad4a"   >
